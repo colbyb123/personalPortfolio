@@ -44,7 +44,7 @@ nav ul li{
 nav ul li a{
     color: #fff;
     text-decoration: none;
-    font-size: 50px;
+    font-size: 30px;
     position: relative;
 }
 
@@ -102,18 +102,18 @@ nav ul li a:hover::after{
 }
 
 .sub-title{
-    font-size: 75px;
+    font-size: 60px;
     font-weight: 600;
     color: #fff;
 }
 
 .paragraph{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .tab-titles{
     display: flex;
-    margin: 20px 0 40px;
+    margin: 20px 0 30px;
 }
 
 .tab-links{
@@ -140,7 +140,7 @@ nav ul li a:hover::after{
 }
 
 .tab-contents ul li{
-    font-size: 30px;
+    font-size: 25px;
     list-style: none;
     margin: 10px 0;
 }
