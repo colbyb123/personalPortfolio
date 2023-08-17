@@ -1,3 +1,3 @@
 # personalPortfolio
-This is my personal portfolio website: colbybetterton.com
+This is my personal portfolio website: [My Website](colbybetterton.com)
 
