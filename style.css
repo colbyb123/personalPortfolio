@@ -121,7 +121,18 @@ nav ul li a:hover::after{
 .tab-titles{
     display: flex;
     margin: 20px 0 30px;
+    color: #fff
 }
+
+.download-link{
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.download-link:hover {
+    color: #ff004f;
+  } 
 
 .tab-links{
     margin-right: 50px;
@@ -233,16 +244,25 @@ nav ul li a:hover::after{
     height: 100%;
 }
 
+.social-list{
+    list-style-type: none;
+}
+
+.social-item{
+    display: inline-block;
+    /* margin-left: 250px;
+    margin-right: -250px; */
+}
+
 .fa {
-    padding: 20px 60px;
+    padding: 20px 10px;
     font-size: 60px;
-    width: 30px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
     color: #fff;
   }
 
-  .fa:hover {
+.fa:hover {
     color: #ff004f;
   } 
